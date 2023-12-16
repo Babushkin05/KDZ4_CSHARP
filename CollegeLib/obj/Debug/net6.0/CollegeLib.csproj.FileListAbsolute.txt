@@ -1,0 +1,12 @@
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/bin/Debug/net6.0/CollegeLib.deps.json
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/bin/Debug/net6.0/CollegeLib.dll
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/bin/Debug/net6.0/CollegeLib.pdb
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/obj/Debug/net6.0/CollegeLib.csproj.AssemblyReference.cache
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/obj/Debug/net6.0/CollegeLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/obj/Debug/net6.0/CollegeLib.AssemblyInfoInputs.cache
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/obj/Debug/net6.0/CollegeLib.AssemblyInfo.cs
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/obj/Debug/net6.0/CollegeLib.csproj.CoreCompileInputs.cache
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/obj/Debug/net6.0/CollegeLib.dll
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/obj/Debug/net6.0/refint/CollegeLib.dll
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/obj/Debug/net6.0/CollegeLib.pdb
+/Users/vovababuskin/Projects/KDZBABUSHKIN4/CollegeLib/obj/Debug/net6.0/ref/CollegeLib.dll
